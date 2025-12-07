@@ -28,6 +28,13 @@ Ele integra **frontend web (React JS)**, **backend (Laravel)**, **mobile (React 
 ## 🏗️ Equipe e Governança
 O projeto é mantido por **SENAC MS** e **Prefeitura de Campo Grande / SESAU**, com equipe técnica dedicada ao desenvolvimento e implantação.
 
+---
+
 <p align="center">
-  © 2025 AMBULINK — Sistema Oficial do SAMU Campo Grande/MS
+  <img src="../assets/footer-ambulink.svg" width="100%" alt="AMBULINK Footer"/>
+</p>
+
+
+<p align="center">
+  © 2025 AMBULINK • Sistema Oficial do SAMU Campo Grande/MS
 </p>
