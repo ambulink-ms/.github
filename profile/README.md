@@ -2,35 +2,41 @@
   <img src="../assets/header-ambulink.svg" width="100%" alt="AMBULINK Header"/>
 </p>
 
-# 🚑 AMBULINK
+# AMBULINK
 
-Sistema Oficial do SAMU de Campo Grande/MS  
-Desenvolvido para modernizar e unificar o atendimento de emergências médicas.
+Sistema de Apoio ao Atendimento de Ocorrências do SAMU de Campo Grande/MS.
 
-## 🧠 Sobre o Projeto
+## Sobre o Projeto
 O **AMBULINK** substitui o antigo e-SUS SAMU, cobrindo todo o fluxo - desde a chamada ao 192 até o encerramento da ocorrência.  
 Ele integra **frontend web (React JS)**, **backend (Laravel)**, **mobile (React Native)** e **infraestrutura (Docker/Nginx)**.
 
-## 📦 Repositórios Oficiais
+## Repositórios Oficiais
 | Módulo | Repositório | Descrição |
 |--------|--------------|------------|
-| ⚙️ Backend | [ambulink-backend](https://github.com/ambulink-ms/ambulink-backend) | API Laravel + PostgreSQL |
-| 🖥️ Frontend | [ambulink-frontend](https://github.com/ambulink-ms/ambulink-frontend) | Interface Web para TARM, Médico Regulador, Rádio e Admin |
-| 📱 Mobile | [ambulink-mobile](https://github.com/ambulink-ms/ambulink-mobile) | Aplicativo para Equipe de Ambulância (React Native) |
-| ☁️ Deploy | [ambulink-deploy](https://github.com/ambulink-ms/ambulink-deploy) | Infraestrutura, Docker e automação |
-| 📚 Documentação | [docs](https://github.com/ambulink-ms/docs) | Documentação geral, APIs e fluxos |
+| Backend | [ambulink-backend](https://github.com/ambulink-ms/ambulink-backend) | API Laravel + PostgreSQL |
+| Frontend | [ambulink-frontend](https://github.com/ambulink-ms/ambulink-frontend) | Sitema Web de utilização da Equipe Interna do SAMU |
+| Mobile | [ambulink-mobile](https://github.com/ambulink-ms/ambulink-mobile) | Aplicativo de utilização da Equipe de Ambulância (React Native) |
+| Infra | [ambulink-deploy](https://github.com/ambulink-ms/ambulink-deploy) | Infraestrutura de deploy, Docker, Nginx e automações |
+| Documentação | [docs](https://github.com/ambulink-ms/docs) | Documentação organizacional da Equipe de Desenvolvimento e GitHub |
 
-## 🧭 Documentação Central
-- [Documentação Geral do Sistema (PDF)](https://github.com/ambulink/docs/blob/main/[v-0.1.0]%20DOCUMENTAÇÃO%20GERAL%20AMBULINK.pdf)
-- [Guia de Processo de Desenvolvimento](https://github.com/ambulink/docs/blob/main/CONTRIBUTION.md)
-- [Referência de Rotas da API](https://github.com/ambulink/docs/blob/main/Documentação%20Rotas.pdf)
+## Documentações oficiais
 
-## 🏗️ Equipe e Governança
-O projeto é mantido por **SENAC MS** e **Prefeitura de Campo Grande / SESAU**, com equipe técnica dedicada ao desenvolvimento e implantação.
+| Documento |  Descrição | Acesso |
+|---|---|---|
+| Documentação Geral Oficial (PDF) | Documentação Geral Oficial do Software. | [Abrir documento](https://drive.google.com/file/d/1r51f5pAKkAsrSg-gePfa_ciKb3CNrtf1/view?usp=drive_link) |
+| Documentação API Backend (Redocs / Swagger) | Endpoints REST completos do backend com exemplos de requisição. | [Abrir documentação](http://45.182.18.130:7588/api/) |
+| Documentação Banco de Dados PostgreeSQL (DBdocs.io) | Representações Lógica completa do BD | [Abrir documentação](https://dbdocs.io/ambulinkms/ambulink-db) |
+| Fluxo de Atendimento do SAMU com o AMBULINK (BPMN) | Diagrama detalhado do fluxo de Atendimento com o AMBULINK | [Ver diagrama](https://drive.google.com/file/d/1lslzliOtSxUQBbu0zI6q3FUkN60qJahA/view?usp=sharing) |
+| Documentação do Processo de Desenvolvimento (`CONTRIBUTION.md`) | Padrões de branch, commits, PRs e versionamento. | [Abrir documento](./CONTRIBUTION.md) |
+| Modelo de Pull Request (`PULL_REQUEST_TEMPLATE.md`) | Template oficial utilizado em todos os repositórios AMBULINK. | [Abrir template](./PULL_REQUEST_TEMPLATE.md) |
+| Design System (Figma) | Telas, fluxos de navegação e componentes UI utilizados como referência no sistema. | [Abrir documentação](https://www.figma.com/team_invite/redeem/nufENVVBPPC3GWCgoOoGKH) |
+
+## Equipe e Governança
+O projeto é mantido pelo **SENAC MS**, **SEMADESC** e **Prefeitura de Campo Grande / SESAU**, com equipe técnica dedicada ao desenvolvimento e implantação.
 
 ---
 
-### 👨‍🏫 Professor Mentor – Product Owner
+### Professor Mentor – Product Owner
 
 | Nome | LinkedIn | GitHub |
 |------|-----------|--------|
@@ -38,7 +44,7 @@ O projeto é mantido por **SENAC MS** e **Prefeitura de Campo Grande / SESAU**, 
 
 ---
 
-### 👨‍💻🧠 Desenvolvedores Mentores – Team Leaders
+### Desenvolvedores Mentores – Team Leaders
 
 | Nome | LinkedIn | GitHub |
 |------|-----------|--------|
@@ -49,7 +55,7 @@ O projeto é mantido por **SENAC MS** e **Prefeitura de Campo Grande / SESAU**, 
 
 ---
 
-### 👨‍💻 Desenvolvedores
+### Desenvolvedores
 
 | Nome | LinkedIn |
 |------|-----------|
