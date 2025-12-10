@@ -16,8 +16,8 @@ Ele integra **frontend web (React JS)**, **backend (Laravel)**, **mobile (React 
 | Backend | [ambulink-backend](https://github.com/ambulink-ms/ambulink-backend) | API Laravel + PostgreSQL |
 | Frontend | [ambulink-frontend](https://github.com/ambulink-ms/ambulink-frontend) | Sitema Web de utilização da Equipe Interna do SAMU |
 | Mobile | [ambulink-mobile](https://github.com/ambulink-ms/ambulink-mobile) | Aplicativo de utilização da Equipe de Ambulância (React Native) |
-| Infra | [ambulink-deploy](https://github.com/ambulink-ms/ambulink-deploy) | Infraestrutura de deploy, Docker, Nginx e automações |
-| Documentação | [docs](https://github.com/ambulink-ms/docs) | Documentação organizacional da Equipe de Desenvolvimento e GitHub |
+| Infra | [ambulink-infra](https://github.com/ambulink-ms/ambulink-infra) | Infraestrutura de deploy, Docker, Nginx e automações |
+| Documentação | [ambulink-docs](https://github.com/ambulink-ms/ambulink-docs) | Documentação organizacional da Equipe de Desenvolvimento e GitHub |
 
 ## Documentações oficiais
 
