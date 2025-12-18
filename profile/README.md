@@ -2,15 +2,15 @@
   <img src="../assets/header-ambulink.svg" width="100%" alt="AMBULINK Header"/>
 </p>
 
-# AMBULINK
+# 🚑 AMBULINK
 
 Sistema de Apoio ao Atendimento de Ocorrências do SAMU de Campo Grande/MS.
 
-## Sobre o Projeto
+## 💡 Sobre o Projeto
 O **AMBULINK** substitui o antigo e-SUS SAMU, cobrindo todo o fluxo - desde a chamada ao 192 até o encerramento da ocorrência.  
 Ele integra **frontend web (React JS)**, **backend (Laravel)**, **mobile (React Native)** e **infraestrutura (Docker/Nginx)**.
 
-## Repositórios Oficiais
+## 🗂️ Repositórios Oficiais
 | Módulo | Repositório | Descrição |
 |--------|--------------|------------|
 | Backend | [ambulink-backend](https://github.com/ambulink-ms/ambulink-backend) | API Laravel + PostgreSQL |
@@ -19,7 +19,7 @@ Ele integra **frontend web (React JS)**, **backend (Laravel)**, **mobile (React 
 | Infra | [ambulink-infra](https://github.com/ambulink-ms/ambulink-infra) | Infraestrutura de deploy, Docker, Nginx e automações |
 | Documentação | [ambulink-docs](https://github.com/ambulink-ms/ambulink-docs) | Documentação organizacional da Equipe de Desenvolvimento e GitHub |
 
-## Documentações oficiais
+## 📚 Documentações oficiais
 
 | Documento |  Descrição | Acesso |
 |---|---|---|
@@ -31,7 +31,7 @@ Ele integra **frontend web (React JS)**, **backend (Laravel)**, **mobile (React 
 | Modelo de Pull Request (`PULL_REQUEST_TEMPLATE.md`) | Template oficial utilizado em todos os repositórios AMBULINK. | [Abrir template](./PULL_REQUEST_TEMPLATE.md) |
 | Design System (Figma) | Telas, fluxos de navegação e componentes UI utilizados como referência no sistema. | [Abrir documentação](https://www.figma.com/team_invite/redeem/nufENVVBPPC3GWCgoOoGKH) |
 
-## Equipe e Governança
+## 👥 Equipe e Governança
 O projeto é mantido pelo **SENAC MS**, **SEMADESC** e **Prefeitura de Campo Grande / SESAU**, com equipe técnica dedicada ao desenvolvimento e implantação.
 
 ---
