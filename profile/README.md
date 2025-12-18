@@ -44,7 +44,7 @@ O projeto é mantido pelo **SENAC MS**, **SEMADESC** e **Prefeitura de Campo Gra
 
 ---
 
-### Desenvolvedores Mentores – Team Leaders
+### Desenvolvedores Mentores – Tech Leads
 
 | Nome | LinkedIn | GitHub |
 |------|-----------|--------|
