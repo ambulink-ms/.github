@@ -1,24 +1,25 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ambulink-ms/.github/main/assets/header-ambulink.svg" width="100%" alt="AMBULINK Header"/>
+  <img src="./assets/header-ambulink.svg" width="100%" alt="AMBULINK Header"/>
 </p>
 
-# Repositório de Organização do GitHub AMBULINK
+# 🚑 Repositório da Organização GitHub - AMBULINK
 
 Este repositório é responsável pela **configuração institucional da organização AMBULINK no GitHub**.  
-Ele define o conteúdo exibido na **página principal da organização** e mantém os **padrões visuais e comunicacionais** entre os repositórios oficiais.
+Ele define o conteúdo exibido na **página principal da organização** e mantém os **padrões visuais, comunicacionais e de identidade** utilizados em todos os repositórios oficiais do ecossistema AMBULINK.
 
-## Estrutura
+## 🗂 Estrutura do Repositório
 
-- `profile/README.md` → Exibido na home da organização (`github.com/ambulink`)
-- `assets/` → Contém imagens institucionais, como banners, logos e rodapés
-- `README.md` (este arquivo) → Descreve o propósito técnico do repositório `.github`
+| Caminho | Função |
+|----------|--------|
+| `profile/README.md` | Exibido na home da organização (`github.com/ambulink-ms`) |
+| `assets/` | Contém imagens institucionais (banners, logos, rodapés) |
+| `README.md` | Documento técnico explicativo (este arquivo) |
 
 ---
 
 <p align="center">
   <img src="./assets/footer-ambulink.svg" width="100%" alt="AMBULINK Footer"/>
 </p>
-
 
 <p align="center">
   © 2025 AMBULINK • Sistema Oficial do SAMU Campo Grande/MS
