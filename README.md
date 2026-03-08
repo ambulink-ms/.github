@@ -2,18 +2,32 @@
   <img src="./assets/header-ambulink.svg" width="100%" alt="AMBULINK Header"/>
 </p>
 
-# 🚑 Repositório da Organização GitHub - AMBULINK
+# AMBULINK GitHub Organization
 
-Este repositório é responsável pela **configuração institucional da organização AMBULINK no GitHub**.  
-Ele define o conteúdo exibido na **página principal da organização** e mantém os **padrões visuais, comunicacionais e de identidade** utilizados em todos os repositórios oficiais do ecossistema AMBULINK.
+Este repositório centraliza os arquivos institucionais da organização **AMBULINK** no GitHub.
 
-## 🗂 Estrutura do Repositório
+Objetivo:
 
-| Caminho | Função |
-|----------|--------|
-| `profile/README.md` | Exibido na home da organização (`github.com/ambulink-ms`) |
-| `assets/` | Contém imagens institucionais (banners, logos, rodapés) |
-| `README.md` | Documento técnico explicativo (este arquivo) |
+- Definir e manter a página pública da organização (`profile/README.md`)
+- Padronizar identidade visual compartilhada entre os repositórios
+- Disponibilizar assets oficiais para comunicação institucional
+
+---
+
+## Estrutura de pastas
+
+| Caminho | Finalidade |
+| ------- | ---------- |
+| `profile/README.md` | Conteúdo exibido na home da organização `github.com/ambulink-ms` |
+| `assets/` | Imagens institucionais (header, footer e elementos de apoio) |
+
+---
+
+## Referências
+
+- Perfil da organização: [ambulink-ms](https://github.com/ambulink-ms)
+- Documentação de processo: [ambulink-docs/CONTRIBUTION.md](https://github.com/ambulink-ms/ambulink-docs/blob/main/CONTRIBUTION.md)
+- Template de Pull Request: [ambulink-docs/PULL-REQUEST-TEMPLATE.md](https://github.com/ambulink-ms/ambulink-docs/blob/main/PULL-REQUEST-TEMPLATE.md)
 
 ---
 
