@@ -36,7 +36,7 @@ Ele integra **frontend web (React JS)**, **backend (Laravel)**, **mobile (React 
 | Documentação Banco de Dados PostgreeSQL (DBdocs.io) | Representações Lógica completa do BD | [Abrir documentação](https://dbdocs.io/ambulinkms/ambulink-db) |
 | Fluxo de Atendimento do SAMU com o AMBULINK (BPMN) | Diagrama detalhado do fluxo de Atendimento com o AMBULINK | [Ver diagrama](https://drive.google.com/file/d/1lslzliOtSxUQBbu0zI6q3FUkN60qJahA/view?usp=sharing) |
 | Documentação do Processo de Desenvolvimento (`CONTRIBUTION.md`) | Padrões de branch, commits, PRs e versionamento. | [Abrir documento](./CONTRIBUTION.md) |
-| Modelo de Pull Request (`PULL_REQUEST_TEMPLATE.md`) | Template oficial utilizado em todos os repositórios AMBULINK. | [Abrir template](./PULL_REQUEST_TEMPLATE.md) |
+| Modelo de Pull Request (`PULL-REQUEST-TEMPLATE.md`) | Template oficial utilizado em todos os repositórios AMBULINK. | [Abrir template](./PULL-REQUEST-TEMPLATE.md) |
 | Design System (Figma) | Telas, fluxos de navegação e componentes UI utilizados como referência no sistema. | [Abrir documentação](https://www.figma.com/team_invite/redeem/nufENVVBPPC3GWCgoOoGKH) |
 
 ## 👥 Equipe e Governança
