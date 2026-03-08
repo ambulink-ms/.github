@@ -52,19 +52,27 @@ O projeto possui foco em confiabilidade operacional, rastreabilidade e padroniza
 
 ## Arquitetura do Ecossistema
 
-```text
-Usuários (operação SAMU)
-      |
-      +--> Frontend Web (React/Vite)
-      |         |
-      |         +--> API Backend (Laravel)
-      |                    |
-      |                    +--> PostgreSQL
-      |
-      +--> Mobile (React Native)
-                |
-                +--> API Backend (Laravel)
+```mermaid
+flowchart LR
+  U[Usuarios do SAMU] --> W[Frontend Web<br/>React + Vite]
+  U --> M[Mobile<br/>React Native]
+
+  W --> API[API Backend<br/>Laravel]
+  M --> API
+
+  API --> DB[(PostgreSQL)]
+
+  subgraph DEV[Ambiente de Desenvolvimento]
+    W
+    M
+    API
+    DB
+  end
+
+  INFRA[Infraestrutura<br/>Docker + Nginx + Automacoes] -. suporte .- DEV
+  DOCS[Documentacao e Governanca<br/>ambulink-docs] -. padroes .- DEV
 ```
+
 
 No ambiente de desenvolvimento, backend e banco rodam em Docker e o frontend roda no host com proxy para a API, conforme padrão adotado nos repositórios oficiais.
 
