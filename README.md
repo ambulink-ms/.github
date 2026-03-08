@@ -3,8 +3,8 @@
 </p>
 
 # AMBULINK GitHub Organization
-
-Este repositório centraliza os arquivos institucionais da organização **AMBULINK** no GitHub.
+O **AMBULINK** substitui o antigo e-SUS SAMU, cobrindo o fluxo completo do atendimento: da chamada ao 192 até o encerramento da ocorrência.
+Este repositório centraliza os arquivos institucionais da organização do software no GitHub.
 
 Objetivo:
 
