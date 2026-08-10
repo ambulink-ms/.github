@@ -122,20 +122,16 @@ O projeto é mantido por **SENAC MS**, **SEMADESC** e **Prefeitura de Campo Gran
 
 O AMBULINK vem sendo destaque em veículos de comunicação e portais institucionais, reforçando seu impacto na modernização do atendimento do SAMU de Campo Grande/MS e na inovação em saúde pública.
 
-### Fase de concepção e hackathon (Novembro/2024)
-
-- [Hackathon Senac Decola premia soluções tecnológicas desenvolvidas para o SAMU](https://www.acritica.net/editorias/saude/inovacao-na-saude-publica-com-apoio-da-sesau-hackathon-senac-decola-pr/781555/) - A Crítica (25/11/2024)
 - [Jovens programadores desenvolvem sistema para o SAMU durante maratona do Senac](https://diariomsnews.com.br/noticias/jovens-programadores-desenvolvem-sistema-para-o-samu-durante-maratona-do-senac/) - Diário MS News (29/11/2024)
-
-### Desenvolvimento da primeira etapa e validação técnica (Fevereiro e Março/2025)
-
-- [Vencedores do Senac Decola vão ajudar SAMU ao desenvolver sistema](https://ms.senac.br/senac/noticias/v/vencedores-do-senac-decola-vao-ajudar-samu-com-desenvolvimento-de-software) - Senac MS Notícias (16/02/2025)
-- [Senac Decola e SAMU aprimoram sistema de emergência em MS](https://portaldocomercio.org.br/sistema-comercio/senac-decola-e-samu-aprimoram-sistema-de-emergencia-em-ms/) - Portal do Comércio (CNC) (12/03/2025)
-
-### Apresentação e implementação da primeira etapa (Abril/2025)
-
-- [Sistema criado por estudantes moderniza atendimento emergencial](https://g1.globo.com/ms/mato-grosso-do-sul/videos-bom-dia-ms/video/sistema-criado-por-estudantes-moderniza-atendimento-emergencial-13489822.ghtml) - G1 / Bom Dia MS (Rede Globo) (19/04/2025)
-- [Tecnologia desenvolvida por estudantes será usada pelo SAMU de Campo Grande](https://totalnewsms.com.br/cultura/tecnologia-desenvolvida-por-estudantes-sera-usada-pelo-samu-em-campo-grande/) - Total News MS (19/04/2025)
+- [Vencedores do Senac Decola vão ajudar SAMU com desenvolvimento de software](https://ms.senac.br/senac/noticias/v/vencedores-do-senac-decola-vao-ajudar-samu-com-desenvolvimento-de-software) - Senac MS (16/02/2025)
+- [Senac Decola e SAMU aprimoram sistema de emergência em MS](https://portaldocomercio.org.br/sistema-comercio/senac-decola-e-samu-aprimoram-sistema-de-emergencia-em-ms/) - Portal do Comércio (12/03/2025)
+- [Sistema criado por estudantes moderniza atendimento emergencial](https://g1.globo.com/ms/mato-grosso-do-sul/videos-bom-dia-ms/video/sistema-criado-por-estudantes-moderniza-atendimento-emergencial-13489822.ghtml) - G1 / Bom Dia MS (04/04/2025)
+- [Tecnologia Ambulink SAMU](https://atualnews.com.br/tecnologia-ambulink-samu/) - Atual News (18/04/2025)
+- [Sistema criado por alunos do Senac será usado pelo SAMU de Campo Grande](https://msconecta.com.br/noticia/10571/sistema-criado-por-alunos-do-senac-sera-usado-pelo-samu-de-campo-grande) - MS Conecta (18/04/2025)
+- [Novo sistema Ambulink moderniza atendimento do SAMU em Campo Grande](https://www.diariodigital.com.br/geral/novo-sistema-ambulink-moderniza-atendimento-do-samu-em-campo-grande) - Diário Digital (18/04/2025)
+- [Tecnologia desenvolvida por estudantes será usada pelo SAMU em Campo Grande](https://totalnewsms.com.br/cultura/tecnologia-desenvolvida-por-estudantes-sera-usada-pelo-samu-em-campo-grande/) - Total News MS (19/04/2025)
+- [Alunos do Senac entregam sistema que vai modernizar atendimento do SAMU em Campo Grande](https://impactomais.com.br/saude/alunos-do-senac-entregam-sistema-que-vai-modernizar-atendimento-do-samu-em-campo-grande/) - Impacto Mais (22/04/2025)
+- [Prefeitura apresenta relatório quadrimestral da Saúde e Comitê Gestor projeta melhorias na rede](https://www.campogrande.ms.gov.br/cgnoticias/noticia/prefeitura-apresenta-relatorio-quadrimestral-da-saude-e-comite-gestor-projeta-melhorias-na-rede/) - Prefeitura de Campo Grande / CG Notícias (29/09/2025)
 
 ---
 
