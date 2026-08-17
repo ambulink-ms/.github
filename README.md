@@ -26,8 +26,6 @@ Objetivo:
 ## Referências
 
 - Perfil da organização: [ambulink-ms](https://github.com/ambulink-ms)
-- Documentação de processo: [ambulink-docs/CONTRIBUTION.md](https://github.com/ambulink-ms/ambulink-docs/blob/main/CONTRIBUTION.md)
-- Template de Pull Request: [ambulink-docs/PULL-REQUEST-TEMPLATE.md](https://github.com/ambulink-ms/ambulink-docs/blob/main/PULL-REQUEST-TEMPLATE.md)
 
 ---
 

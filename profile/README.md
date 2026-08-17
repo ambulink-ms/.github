@@ -43,10 +43,6 @@ O projeto possui foco em confiabilidade operacional, rastreabilidade e padroniza
 | Documentação Geral Oficial (PDF) | Documento oficial de escopo funcional e técnico do software. | [Abrir documento](https://drive.google.com/file/d/1r51f5pAKkAsrSg-gePfa_ciKb3CNrtf1/view?usp=drive_link) |
 | Documentação API Backend (Swagger) | Endpoints REST do backend com exemplos de requisição. | [Acessar via ambinete de desenvolvimento do backend (Leia documentação)](https://github.com/ambulink-ms/ambulink-backend/blob/develop/README.md#documenta%C3%A7%C3%A3o-da-api-swagger) |
 | Documentação do Banco de Dados PostgreSQL (dbdocs.io) | Representação lógica completa do banco de dados. | [Abrir documentação](https://dbdocs.io/ambulinkms/ambulink-db) |
-| Fluxo de Atendimento SAMU com o AMBULINK (BPMN) | Diagrama detalhado do fluxo operacional de atendimento. | [Ver diagrama](https://drive.google.com/file/d/1lslzliOtSxUQBbu0zI6q3FUkN60qJahA/view?usp=sharing) |
-| Processo de Desenvolvimento (`CONTRIBUTION.md`) | Padrões de branch, commits, PRs e versionamento. | [Abrir documento](https://github.com/ambulink-ms/ambulink-docs/blob/main/CONTRIBUTION.md) |
-| Modelo de Pull Request (`PULL-REQUEST-TEMPLATE.md`) | Template oficial utilizado em todos os repositórios AMBULINK. | [Abrir template](https://github.com/ambulink-ms/ambulink-docs/blob/main/PULL-REQUEST-TEMPLATE.md) |
-| Design System (Figma) | Telas, fluxos e componentes de interface utilizados pelo projeto. | [Abrir documentação](https://www.figma.com/team_invite/redeem/nufENVVBPPC3GWCgoOoGKH) |
 
 ---
 
@@ -75,16 +71,6 @@ flowchart LR
 
 
 No ambiente de desenvolvimento, backend e banco rodam em Docker e o frontend roda no host com proxy para a API, conforme padrão adotado nos repositórios oficiais.
-
----
-
-## Contribuição e Governança
-
-As contribuições devem seguir os padrões definidos oficialmente em `ambulink-docs`, com foco em previsibilidade de entrega, rastreabilidade de escopo e qualidade técnica.
-
-1. Leia o guia de processo: [CONTRIBUTION.md](https://github.com/ambulink-ms/ambulink-docs/blob/main/CONTRIBUTION.md)
-2. Utilize o template oficial de PR: [PULL-REQUEST-TEMPLATE.md](https://github.com/ambulink-ms/ambulink-docs/blob/main/PULL-REQUEST-TEMPLATE.md)
-3. Priorize branches curtas e PRs objetivos para facilitar revisão técnica
 
 ---
 
