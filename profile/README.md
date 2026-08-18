@@ -41,7 +41,7 @@ O projeto possui foco em confiabilidade operacional, rastreabilidade e padroniza
 | Documento | Descrição | Acesso |
 | --------- | --------- | ------ |
 | Documentação API Backend (Swagger) | Endpoints REST do backend com exemplos de requisição. | [Acessar via ambinete de desenvolvimento do backend (Leia documentação)](https://github.com/ambulink-ms/ambulink-backend/blob/develop/README.md#documenta%C3%A7%C3%A3o-da-api-swagger) |
-| Documentação do Banco de Dados PostgreSQL (dbdocs.io) | Representação lógica completa do banco de dados. | [Abrir documentação](https://dbdocs.io/ambulinkms/ambulink-db) |
+| Documentação do Banco de Dados PostgreSQL (dbdocs.io) | Representação lógica completa do banco de dados. | [Abrir documentação](https://dbdocs.io/davi.rlima04/ambulink?view=table_structure) |
 
 ---
 
